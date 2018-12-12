@@ -1,0 +1,8 @@
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\AcmeApi\bin\Debug\AcmeApi.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\AcmeApi\bin\Debug\AcmeApi.pdb
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\AcmeApi\obj\Debug\AcmeApi.csprojResolveAssemblyReference.cache
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\AcmeApi\obj\Debug\AcmeApi.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\AcmeApi\obj\Debug\AcmeApi.pdb
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\AcmeApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\AcmeApi\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\AcmeApi\bin\Debug\Newtonsoft.Json.xml

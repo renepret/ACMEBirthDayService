@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayMessageServiceUnitTests", "ACMEUnitTests\BirthdayMessageServiceUnitTests.csproj", "{CFC9B8DB-30B6-4C6D-A572-D0650D03AE14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayMessageService", "AcmeApi\BirthdayMessageService.csproj", "{2A684A81-56A2-42E7-B710-368F29405596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC9B8DB-30B6-4C6D-A572-D0650D03AE14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC9B8DB-30B6-4C6D-A572-D0650D03AE14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC9B8DB-30B6-4C6D-A572-D0650D03AE14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC9B8DB-30B6-4C6D-A572-D0650D03AE14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A684A81-56A2-42E7-B710-368F29405596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A684A81-56A2-42E7-B710-368F29405596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A684A81-56A2-42E7-B710-368F29405596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A684A81-56A2-42E7-B710-368F29405596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

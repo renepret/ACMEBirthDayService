@@ -1,0 +1,17 @@
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\ACMEUnitTests.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\ACMEUnitTests.pdb
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\obj\Debug\ACMEUnitTests.csprojResolveAssemblyReference.cache
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\obj\Debug\ACMEUnitTests.dll
+c:\users\pretorr\documents\visual studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\obj\Debug\ACMEUnitTests.pdb
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\AcmeApi.dll
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\AcmeApi.pdb
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\pretorr\Documents\Visual Studio 2017\Projects\ACMEBirthDayService\ACMEUnitTests\bin\Debug\Newtonsoft.Json.xml
